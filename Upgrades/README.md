@@ -14,7 +14,7 @@ Tolerances are really tigth to prevent potential wobble over time so if you can'
 
 Preinstall grab screws prior to installation of the gantry as per picture 
 
-Extra material required: M5x5mm grab screw X 4 pcs and M3x20mm grab screw X 4 pcs, next GT2 20T 3mm hole pulleys with teeth X 2 pcs and GT2 20T 3mm hole pulleys without teeth X 2 pcs
+Extra material required: M5x5mm grab screw X 4 pcs and M3x20mm grab screw X 4 pcs, next GT2 20T 3mm hole pulleys with teeth X 2 pcs and GT2 20T 3mm hole pulleys without teeth X 2 pcs, 0.2mm M3 washers x 8 pcs for top and bottom of each pulley
 
 If you plan to also upgrade X rods/tubes then these are 10x1mm size seamless stainless type, you can also use 10x1.5mm for better stiffness, make sure you source high precision tubes with 50 micron (-0.05mm) tolerances otherwise those bushing won't slide properly and will bind, XY joints are remixed with deeper hole at the top so one of the rod/tube is longer by 2mm so 385mm instead of 383mm, so 1pcs should be cut to 383mm and second to 385mm 
 
