@@ -12,7 +12,7 @@ Extra size has material also on front face so shawing off 2mm of the front gantr
 
 Preinstall grab screws prior to installation of the gantry as per picture 
 
-Extra material required: M5x5mm X 4 pcs and M3x20mm X 4 pcs, next GT2 20T 3mm hole pulleys with teeth X 2 pcs and GT2 20T 3mm hole pulleys without teeth X 2 pcs
+Extra material required: M5x5mm grab screw X 4 pcs and M3x20mm grab screw X 4 pcs, next GT2 20T 3mm hole pulleys with teeth X 2 pcs and GT2 20T 3mm hole pulleys without teeth X 2 pcs
 
 ## Side Fan Raiser
 
