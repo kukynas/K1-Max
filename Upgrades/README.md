@@ -8,7 +8,7 @@ Layer height 0.12mm
 
 Standard size has extra material only on sides so overall X length will be shorter by ~3mm (307 instead of 310) this is to stiffen the attachment of the rods inside of the joints
 
-Extra size has material also on front face so shawing off 2mm of the front gantry holder is necessary, this extra material supports the pressure from the grab screw towards the rods 
+Extra size has extra 2mm of material also on front face so shawing off 2mm of the front gantry holder is necessary, this extra material prevents cracking of the joints from the pressure from the grab screw pushed towards the rods 
 
 Tolerances are really tigth to prevent potential wobble over time so if you can't fit those rods in use rasper or sand paper to shave off excess/support material from the holes 
 
@@ -18,7 +18,7 @@ Extra material required: M5x5mm grab screw X 4 pcs and M3x20mm grab screw X 4 pc
 
 If you plan to also upgrade X rods/tubes then these are 10x1mm size seamless stainless type, you can also use 10x1.5mm for better stiffness, make sure you source high precision tubes with 50 micron (-0.05mm) tolerances otherwise those bushing won't slide properly and will bind, XY joints are remixed with deeper hole at the top so one of the rod/tube is longer by 2mm so 385mm instead of 383mm, so 1pcs should be cut to 383mm and second to 385mm 
 
-New print head bushings are made of 25% Carbon filled Teflon (PTFE) which are available on the market, Graphen filled teflon would work as well, just let them machine it to the original size = 10x14x45mm , I'll be also experimenting with Ertalyte TX as an alternative
+New print head bushings are made of 25% Carbon filled Teflon (PTFE) which are available on the market, Graphen filled teflon would work as well, just let them machined to the original size = 10x14x45mm , I'll be also experimenting with Ertalyte TX as an alternative
 
 I had to use original Y bearings as the Y rods are too far apart causing X gantry to bind if any other sliding material is used, I will keep experimenting with other option but for now this works best
 
