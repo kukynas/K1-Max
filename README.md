@@ -10,5 +10,6 @@ Work in progress...
 Credits goes to 
  - [Omranello](https://github.com/Omranello/K1)
  - [Guilouz](https://github.com/Guilouz/Creality-K1-and-K1-Max)
+ - [destinal](https://www.reddit.com/user/destinal/)
  - And many others
 
