@@ -2,10 +2,6 @@
 # Print setting for XY joints and additional assembly/sourcing info
 Print with ASA, PA6/12, PET or any other high temp material
 
-Layer height 0.12mm
-
-30% infill 
-
 Standard size has extra material only on sides so overall X length will be shorter by ~3mm (307 instead of 310) this is to stiffen the attachment of the rods inside of the joints
 
 Extra size has extra 2mm of material also on front face so shawing off 2mm of the front gantry holder is necessary, this extra material prevents cracking of the joints from the pressure from the grab screw pushed towards the rods 
