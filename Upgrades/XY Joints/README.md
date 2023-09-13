@@ -2,7 +2,7 @@
 # Print setting for XY joints and additional assembly/sourcing info
 Print with ASA, PA6/12, PET or any other high temp material
 
-Standard size has extra material only on sides so overall X length will be shorter by 4mm (306 instead of 310) this is to stiffen the attachment of the rods inside of the joints
+Standard size has extra material only on sides so overall X length will be shorter by 4mm (306 instead of 310) this is to support attachment of the rods inside of xy joints
 
 Extra size has extra 2mm of material also on front face so shawing off 2mm of the front gantry holder is necessary, this extra material prevents cracking of the joints from the extra pressure made by grab screw towards the rods 
 
