@@ -9,7 +9,7 @@ Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)
 
 ## Acknowledgements
 
-Credits goes to 
+Credits 
  - [Omranello](https://github.com/Omranello/K1)
  - And many others
 
