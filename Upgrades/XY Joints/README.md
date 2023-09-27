@@ -6,7 +6,7 @@ Tolerances are really tigth to prevent potential wobble over time but trimming i
 
 Preinstall M5 grab screws prior to installation of the rods
 
-Extra material required depends on which joints you choose, either for M3 or M4 pulleys: M5x5mm grab screw X 4 pcs, M3 or M4x20mm grab screw X 4 pcs, next GT2 20T 3/4mm hole pulleys with teeth X 2 pcs and GT2 20T 3/4mm hole pulleys without teeth X 2 pcs, 0.3-0.5mm M3/M4 washers x 8 pcs for top and bottom of each pulley
+Extra material required depends on which joints you choose, either for pulleys with 3mm or 4mm bore: M5x5mm grab screw X 4 pcs, M3 or M4x20mm grab screw X 4 pcs, next GT2 20T 6mm belt width 3/4mm bore pulleys with teeth X 2 pcs and GT2 20T 3/4mm bore pulleys without teeth X 2 pcs, 0.3-0.5mm M3/M4 washers x 8 pcs for top and bottom of each pulley , example of pulleys to choose from https://www.aliexpress.com/item/1005002998457534.html?
 
 
 
