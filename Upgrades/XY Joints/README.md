@@ -1,6 +1,6 @@
 
 # Print setting for XY joints and additional assembly/sourcing info
-Print with ASA, ABS, PA6/12, PET or any other high temp material, 30% infill, 0.16mm layer hight with support as per sliced sample attached 
+Print with ASA, ABS, PA6/12, PET or any other high temp material, 30-40% infill, 0.12mm layer hight, 4 walls, 10 top/bottom layers, with support as per sliced sample attached 
 
 Tolerances are really tigth to prevent potential wobble over time but trimming is not necessary, push/pull the rods in/out couple of times   
 
