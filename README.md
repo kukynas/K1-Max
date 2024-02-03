@@ -14,3 +14,6 @@ Credits
  - [Henlor](https://www.printables.com/search/models?q=henlor&ctx=models)
  - And many others
 
+### More inforelated to K1/Max mods...
+
+Discord: https://discord.gg/QVAN5VNf
