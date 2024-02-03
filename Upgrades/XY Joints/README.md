@@ -13,6 +13,10 @@ XY joints:
 
 - 4 x 0.1-0.2mm M3 washer
 
+- 2 x original LM8LUU bearings
+
+- 2 x original M3 screws holding bearings in place
+
 
 .
 
@@ -24,7 +28,9 @@ Stepper Mounts:
 
 - 8 x 3x5x5 heat insert
 
-- all the other original parts
+- 4 x 0.5mm M3 washer (under the tensioner release screws)
+
+- all the other original parts (tensioners, tensioner idler pin, tensioning screws, stepper screws)
 
 
 .
