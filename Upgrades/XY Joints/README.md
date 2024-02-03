@@ -15,7 +15,7 @@ XY joints:
 
 - 4 x M3x20mm grub screw
 
-- 4 x 0.1-0.2mm M3 washer (between each stack of bearings)
+- 4 x 0.1-0.2mm M3 washer (between bearings = bearing->washer->bearing)
 
 - 2 x original LM8LUU bearings
 
@@ -28,11 +28,11 @@ Stepper Mounts:
 
 - 12 x F624-2RS (4x13x5mm) flanged bearings
 
-- 6 x 0.1-0.2mm M4 washer (between each stack of bearings)
+- 6 x 0.1-0.2mm M4 washer (between bearings = bearing->washer->bearing)
 
 - 8 x 3x5x5 heat insert
 
-- 8 x M3x6 FHCS screws
+- 8 x M3x6 FHCS screw
 
 - 4 x 0.5mm M3 washer (under the tensioner release screws)
 
@@ -47,15 +47,18 @@ Idler Mounts:
 
 - 2 x M4x20mm grub screw
 
-- 2 x 0.1-0.2mm M4 washer (between each stack of bearings)
+- 2 x 0.1-0.2mm M4 washer (between bearings = bearing->washer->bearing)
 
 - 8 x 3x5x5 heat insert
 
-- 8 x M3x6 FHCS screws
+- 8 x M3x6 FHCS screw
 
 
 ![image](https://github.com/kukynas/K1-Max/assets/111185750/5482d30a-b311-4728-830f-4570eb04767a)
 ![image](https://github.com/kukynas/K1-Max/assets/111185750/d6c2472f-de5c-41c7-afa3-5d19fb37f812)
+![image](https://github.com/kukynas/K1-Max/assets/111185750/64c99494-d2b0-4397-928b-ac3d9b3d99ea)
+![image](https://github.com/kukynas/K1-Max/assets/111185750/f614304e-27de-424c-a38f-d79e6f6fd145)
+
 
 .
 
