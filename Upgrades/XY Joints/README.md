@@ -25,15 +25,10 @@ XY joints:
 Stepper Mounts:
 
 - 12 x F624-2RS (4x13x5mm) flanged bearings
-
 - 6 x 0.1-0.2mm M4 washer (between bearings = bearing->washer->bearing)
-
 - 8 x 3x5x5 heat insert
-
 - 8 x M3x6 FHCS screw
-
 - 4 x 0.5mm M3 washer (under the tensioner release screws)
-
 - all the other original parts (tensioners, tensioner idler pin, tensioning screws, stepper screws, original washer used between idlers)
 
 
@@ -42,13 +37,9 @@ Stepper Mounts:
 Idler Mounts:
 
 - 4 x F624-2RS (4x13x5mm) flanged bearings
-
 - 2 x M4x20mm grub screw
-
 - 2 x 0.1-0.2mm M4 washer (between bearings = bearing->washer->bearing)
-
 - 8 x 3x5x5 heat insert
-
 - 8 x M3x6 FHCS screw
 
 
