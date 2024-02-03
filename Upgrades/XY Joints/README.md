@@ -14,13 +14,9 @@ Tolerances are really tigth to prevent potential wobble over time but trimming i
 XY joints:
 
 - 8 x F623ZZ (3x10x4mm) flanged bearings
-
 - 4 x M3x20mm grub screw
-
 - 4 x 0.1-0.2mm M3 washer (between bearings = bearing->washer->bearing)
-
 - 2 x original LM8LUU bearings
-
 - 2 x original M3 screws holding bearings in place
 
 
