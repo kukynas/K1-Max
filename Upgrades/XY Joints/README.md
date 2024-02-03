@@ -4,6 +4,8 @@ It mainly fixes dimensional accuracy, belt path and improve input shaper resonan
 # Print setting for XY joints and additional assembly/sourcing info
 Print with ASA, ABS, PA6/12, PET or any other high temp material, 35-40% infill, 0.16mm layer hight, 4 walls, 8 top/bottom layers, with support as per sliced sample attached 
 
+![image](https://github.com/kukynas/K1-Max/assets/111185750/8ea78cc5-16e3-4fcc-9b98-e0a3b24c81c4)
+
 Tolerances are really tigth to prevent potential wobble over time but trimming is not necessary, push/pull the rods in/out couple of times   
 
 # BOM
@@ -53,9 +55,6 @@ Idler Mounts:
 
 
 .
-
-![image](https://github.com/kukynas/K1-Max/assets/111185750/8ea78cc5-16e3-4fcc-9b98-e0a3b24c81c4)
-
 
 
 Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)
