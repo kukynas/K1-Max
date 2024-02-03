@@ -28,6 +28,8 @@ Stepper Mounts:
 
 - 8 x 3x5x5 heat insert
 
+- 8 x M3x6 FHCS screws
+
 - 4 x 0.5mm M3 washer (under the tensioner release screws)
 
 - all the other original parts (tensioners, tensioner idler pin, tensioning screws, stepper screws)
@@ -44,6 +46,8 @@ Idler Mounts:
 - 2 x 0.1-0.2mm M4 washer
 
 - 8 x 3x5x5 heat insert
+
+- 8 x M3x6 FHCS screws
 
 
 .
