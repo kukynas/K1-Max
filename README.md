@@ -11,5 +11,6 @@ Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)
 
 Credits 
  - [Omranello](https://github.com/Omranello/K1)
+ - [Henlor](https://www.printables.com/search/models?q=henlor&ctx=models)
  - And many others
 
