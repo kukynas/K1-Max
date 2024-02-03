@@ -36,7 +36,7 @@ Stepper Mounts:
 
 Idler Mounts:
 
-- 4 x F624-2RS (4x13x5mm) flanged bearings
+- 4 x F624-2RS or ZZ (4x13x5mm) flanged bearings
 - 2 x M4x20mm grub screw
 - 2 x 0.1-0.2mm M4 washer (between bearings = bearing->washer->bearing)
 - 8 x 3x5x5 heat insert
