@@ -2,7 +2,7 @@
 It mainly fixes dimensional accuracy and improve input shaper resonances for both XY axis due to better support provided to the rods by new stepper mount and XY joints. One important fact, you'll lose about 5mm of your X travel but build area is bigger than the allowed print size, you might need to update your printer.cfg if needed and shorten the X travel, make sure you watch your gantry for the first time as I couldn't test it on K1 (only K1 Max)
 
 # Print setting for XY joints and additional assembly/sourcing info
-Print with ASA, ABS, PA6/12, PET or any other high temp material, 30-40% infill, 0.16mm layer hight, 4 walls, 8 top/bottom layers, with support as per sliced sample attached 
+Print with ASA, ABS, PA6/12, PET or any other high temp material, 35-40% infill, 0.16mm layer hight, 4 walls, 8 top/bottom layers, with support as per sliced sample attached 
 
 Tolerances are really tigth to prevent potential wobble over time but trimming is not necessary, push/pull the rods in/out couple of times   
 
