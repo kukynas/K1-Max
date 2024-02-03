@@ -14,6 +14,7 @@ XY joints:
 4 x 0.1-0.2mm M3 washer
 
 
+
 Stepper Mounts:
 
 12 x F624-2RS (4x13x5mm) flanged bearings
@@ -23,6 +24,7 @@ Stepper Mounts:
 8 x 3x5x5 heat insert
 
 all the original parts
+
 
 Idler Mounts:
 
