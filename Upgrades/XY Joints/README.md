@@ -54,6 +54,10 @@ Idler Mounts:
 
 .
 
+![image](https://github.com/kukynas/K1-Max/assets/111185750/8ea78cc5-16e3-4fcc-9b98-e0a3b24c81c4)
+
+
+
 Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)
 
 
