@@ -15,6 +15,7 @@ XY joints:
 
 
 .
+
 Stepper Mounts:
 
 12 x F624-2RS (4x13x5mm) flanged bearings
@@ -27,6 +28,7 @@ all the original parts
 
 
 .
+
 Idler Mounts:
 
 4 x F624-2RS (4x13x5mm) flanged bearings
@@ -37,6 +39,8 @@ Idler Mounts:
 
 8 x 3x5x5 heat insert
 
+
+.
 
 Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)
 
