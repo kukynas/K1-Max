@@ -10,7 +10,7 @@ Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)
 ## Acknowledgements
 
 Credits 
- - [Omranello](https://github.com/Omranello/K1)
+ - [D3vil Design](https://github.com/D3vil-Design)
  - [Henlor](https://www.printables.com/search/models?q=henlor&ctx=models)
  - And many others
 
