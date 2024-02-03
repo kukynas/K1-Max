@@ -15,7 +15,7 @@ XY joints:
 
 - 4 x M3x20mm grub screw
 
-- 4 x 0.1-0.2mm M3 washer
+- 4 x 0.1-0.2mm M3 washer (between each stack of bearings)
 
 - 2 x original LM8LUU bearings
 
@@ -28,7 +28,7 @@ Stepper Mounts:
 
 - 12 x F624-2RS (4x13x5mm) flanged bearings
 
-- 6 x 0.1-0.2mm M4 washer
+- 6 x 0.1-0.2mm M4 washer (between each stack of bearings)
 
 - 8 x 3x5x5 heat insert
 
@@ -47,12 +47,14 @@ Idler Mounts:
 
 - 2 x M4x20mm grub screw
 
-- 2 x 0.1-0.2mm M4 washer
+- 2 x 0.1-0.2mm M4 washer (between each stack of bearings)
 
 - 8 x 3x5x5 heat insert
 
 - 8 x M3x6 FHCS screws
 
+
+![image](https://github.com/kukynas/K1-Max/assets/111185750/5482d30a-b311-4728-830f-4570eb04767a)
 
 .
 
