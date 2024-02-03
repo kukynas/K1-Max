@@ -7,37 +7,37 @@ Tolerances are really tigth to prevent potential wobble over time but trimming i
 # BOM
 XY joints:
 
-8 x F623ZZ (3x10x4mm) flanged bearings
+- 8 x F623ZZ (3x10x4mm) flanged bearings
 
-4 x M3x20mm grub screw
+- 4 x M3x20mm grub screw
 
-4 x 0.1-0.2mm M3 washer
+- 4 x 0.1-0.2mm M3 washer
 
 
 .
 
 Stepper Mounts:
 
-12 x F624-2RS (4x13x5mm) flanged bearings
+- 12 x F624-2RS (4x13x5mm) flanged bearings
 
-6 x 0.1-0.2mm M4 washer
+- 6 x 0.1-0.2mm M4 washer
 
-8 x 3x5x5 heat insert
+- 8 x 3x5x5 heat insert
 
-all the original parts
+- all the other original parts
 
 
 .
 
 Idler Mounts:
 
-4 x F624-2RS (4x13x5mm) flanged bearings
+- 4 x F624-2RS (4x13x5mm) flanged bearings
 
-2 x M4x20mm grub screw
+- 2 x M4x20mm grub screw
 
-2 x 0.1-0.2mm M4 washer
+- 2 x 0.1-0.2mm M4 washer
 
-8 x 3x5x5 heat insert
+- 8 x 3x5x5 heat insert
 
 
 .
