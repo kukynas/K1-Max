@@ -24,7 +24,7 @@ XY joints:
 
 Stepper Mounts:
 
-- 12 x F624-2RS (4x13x5mm) flanged bearings
+- 12 x F624-2RS or ZZ (4x13x5mm) flanged bearings
 - 6 x 0.1-0.2mm M4 washer (between bearings = bearing->washer->bearing)
 - 8 x 3x5x5 heat insert
 - 8 x M3x6 FHCS screw
